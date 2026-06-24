@@ -47,7 +47,7 @@
 <div align="center">
   <h3>GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RANBD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="RANBD Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RANBD&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="RANBD Trophies" />
   </a>
 </div>
 
