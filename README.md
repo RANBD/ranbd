@@ -1,10 +1,8 @@
 <div align="center">
-  <h1>Rezwan Ahmed</h1>
-  <h3>AI Workflow Automation Specialist & Content Strategist</h3>
-  <p><i>Rezwan</i></p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3776AB&height=250&section=header&text=Rezwan%20Ahmed&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Workflow%20Automation%20Specialist&descAlignY=58&descSize=20&descColor=ffffff" width="100%" alt="Profile Header" />
 
-<div align="center">
+  <br>
+  
   <a href="https://linkedin.com/in/ranxbd">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,40 +14,54 @@
   </a>
 </div>
 
-<hr>
+<br><br>
 
-<h3>About Me</h3>
+<table width="100%" align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>About Me</h3>
+      <p>I lead digital audience strategies and build automated architectures for content monetization. Based in Dhaka, Bangladesh, I specialize in combining generative AI models with workflow automation to scale operations.</p>
+      <ul>
+        <li><b>Working on:</b> Future Station - 25</li>
+        <li><b>Learning:</b> Advanced AI Agents and LLM integrations</li>
+        <li><b>Interests:</b> Video generation, scaling audiences, automation</li>
+        <li><b>Education:</b> University of Information Technology and Sciences</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>Tech Stack & Tools</h3>
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI" />
+      <img src="https://img.shields.io/badge/Meta_Business-0468FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    </td>
+  </tr>
+</table>
 
-<p>I lead digital audience strategies and build automated architectures for content monetization. Based in Dhaka, Bangladesh, I specialize in combining generative AI models with workflow automation to scale social media operations. My focus is on creating high-fidelity AI content, integrating large language models, and engineering efficient data pipelines for large-scale audience engagement.</p>
+<br><br>
 
-<ul>
-  <li><b>Currently working on:</b> Future Station - 25</li>
-  <li><b>Currently learning:</b> Advanced AI Agents and LLM integrations</li>
-  <li><b>Interested in:</b> Generative AI for video and image, social media workflow automation</li>
-  <li><b>Education:</b> University of Information Technology and Sciences</li>
-</ul>
-
-<h3>Toolbox & Tech Stack</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI" />
-  <img src="https://img.shields.io/badge/Meta_Business-0468FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-</p>
-
-<h3>GitHub Trophies</h3>
-
-<div align="left">
+<div align="center">
+  <h3>GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RANBD&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="RANBD Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RANBD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="RANBD Trophies" />
   </a>
 </div>
 
-<h3>My Coding Activity</h3>
+<br><br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RANBD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="RANBD Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANBD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="RANBD Languages" />
+<div align="center">
+  <h3>My Coding Activity</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RANBD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RANBD Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANBD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RANBD Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:0D1117&height=100&section=footer" width="100%" alt="Profile Footer" />
 </div>
